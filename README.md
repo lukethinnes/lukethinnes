@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+[<img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' />]
+
 [website]: https://lucasthinnes.com
 [linkedin]: https://linkedin.com/in/lucasthinnes
 [medium]: https://lucasthinnes.medium.com/
