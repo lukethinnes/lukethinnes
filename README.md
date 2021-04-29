@@ -27,6 +27,10 @@
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' />
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg' />
 
+<br />
+
+<img align='center' alt='stats' src='https://github-readme-stats.vercel.app/api?username=lukethinnes&show_icons=true&hide_border=true' />
+
 [website]: https://lucasthinnes.com
 [linkedin]: https://linkedin.com/in/lucasthinnes
 [medium]: https://lucasthinnes.medium.com/
