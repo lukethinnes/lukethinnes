@@ -10,8 +10,9 @@
 
 ### Find me on the web:
 
-[<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
+[<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' style={{ color: white }} />][linkedin]
 [<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg' />][medium]
+[<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/protonmail.svg' />][protonmail]
 
 <br />
 
@@ -29,3 +30,4 @@
 [website]: https://lucasthinnes.com
 [linkedin]: https://linkedin.com/in/lucasthinnes
 [medium]: https://lucasthinnes.medium.com/
+[protonmail]: mailto:lukethinnes@protonmail.com
