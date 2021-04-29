@@ -8,8 +8,6 @@
 - ⚽️ My goals revolve around creating a better world through technology.
 - 🛹 Fun fact: I have two viral skateboarding clips, even though I am not a skateboarder!
 
-<br />
-
 ### Languages and Tools:
 
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg' />
@@ -20,6 +18,8 @@
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' />
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' />
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg' />
+
+<br />
 
 ### Stats:
 
