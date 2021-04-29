@@ -1,4 +1,4 @@
-### Greetings! 👋 My name is [Lucas Thinnes][website]!
+# Greetings! 👋 My name is [Lucas Thinnes][website]!
 
 ## I am a programmer, performance artist, audio engineer and all-around content lover!
 
