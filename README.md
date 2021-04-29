@@ -10,8 +10,8 @@
 
 ### Find me on the web:
 
-[<img align='left' alt='lucasthinnes.com' width='22px' src='https://cdn.jsdelivr.net/npm/simple-idons@v3/icons/linkedin.svg' />][linkedin]
-[<img align='left' alt='lucasthinnes.com' width='22px' src='https://cdn.jsdelivr.net/npm/simple-idons@v3/icons/medium.svg' />][medium]
+[<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
+[<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg' />][medium]
 
 ### Languages and Tools:
 
