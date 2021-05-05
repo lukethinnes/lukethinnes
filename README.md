@@ -37,6 +37,6 @@
 [linkedin]: https://linkedin.com/in/lucas-thinnes
 [medium]: https://lucasthinnes.medium.com/
 [protonmail]: mailto:lukethinnes@protonmail.com
-
 <br />
+
 # ✌️
