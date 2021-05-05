@@ -25,7 +25,7 @@
 
 <img align='center' alt='stats' src='https://github-readme-stats.vercel.app/api?username=lukethinnes&show_icons=true&hide_border=true' />
 
-### Find me on the web, would love to connect!
+### Find me on the web, I would love to connect with you!
 
 [<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 [<img align='left' alt='Medium' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg' />][medium]
@@ -37,3 +37,7 @@
 [linkedin]: https://linkedin.com/in/lucas-thinnes
 [medium]: https://lucasthinnes.medium.com/
 [protonmail]: mailto:lukethinnes@protonmail.com
+
+<br />
+
+#✌️
