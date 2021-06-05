@@ -3,7 +3,7 @@
 ## I am a programmer, performance artist, audio engineer and all-around content lover!
 
 - 🛠 I have a background in residential construction.
-- 💡 I am currently learning Python and TypeScript.
+- 💡 I am currently learning Python and AWS.
 - ⛓ I am interested in collaborating on forward-thinking projects!
 - ⚽️ My goals revolve around creating a better world through technology.
 - 🛹 Fun fact: I have two viral skateboarding clips, even though I am not a skateboarder!
