@@ -6,7 +6,7 @@
 - 💡 I am currently learning Python and AWS.
 - ⛓ I am interested in collaborating on forward-thinking projects!
 - ⚽️ My goals revolve around creating a better world through technology.
-- 🛹 Fun fact: I have two viral skateboarding clips, even though I am not a skateboarder!
+- 🛹 Fun fact: I have three viral skateboarding clips, even though I am not a skateboarder!
 
 ### Languages and Tools:
 
