@@ -3,7 +3,7 @@
 ## I am a programmer, performance artist, audio engineer and all-around content lover!
 
 - 🛠 I have a background in residential construction.
-- 💡 I am currently learning TypeScript and C++.
+- 💡 I am currently learning Go and C++.
 - ⛓ I am interested in collaborating on forward-thinking projects!
 - ⚽️ My goals revolve around creating a better world through technology.
 - ⚡️  Fun fact: I have been sober for over six years!
