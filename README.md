@@ -20,6 +20,7 @@
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg' />
 
 <br />
+
 ### Find me on the web, I would love to connect with you!
 
 [<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
