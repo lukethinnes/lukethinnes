@@ -1,4 +1,4 @@
-# Greetings! 👋 My name is [Lucas Thinnes][website]!
+# Greetings! 👋 My name is Lucas Thinnes!
 
 ## I am a programmer, performance artist, audio engineer and all-around content lover!
 
@@ -20,11 +20,6 @@
 <img align='left' alt='JS' width='22px' src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg' />
 
 <br />
-
-### Stats:
-
-<img align='center' alt='stats' src='https://github-readme-stats.vercel.app/api?username=lukethinnes&show_icons=true&hide_border=true' />
-
 ### Find me on the web, I would love to connect with you!
 
 [<img align='left' alt='LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
@@ -33,7 +28,6 @@
 
 <br />
 
-[website]: https://lucasthinnes.com
 [linkedin]: https://linkedin.com/in/lucas-thinnes
 [medium]: https://lucasthinnes.medium.com/
 [protonmail]: mailto:lukethinnes@protonmail.com
